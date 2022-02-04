@@ -23,8 +23,10 @@
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Nagpure&show_icons=true&theme=ayu-mirage&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Shubham-Nagpure&theme=ayu-mirage&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Nagpure&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Shubham-Nagpure&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
+
+https://activity-graph.herokuapp.com/graph?username=Shubham-Nagpure&custom_title=Shubham's's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545
