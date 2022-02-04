@@ -1,14 +1,15 @@
-<h1 align="center">
-  <b>Shubham Nagpure</b>
-</h1>
-
-I'm Shubham Nagpure, a software engineer currently working and living in Pune, India. Also learning programming through small projects on the side.
+<div align="center">
+  <h1>
+    <b>Shubham Nagpure</b>
+  </h1>
+  
+  I'm Shubham Nagpure, a software engineer currently working and living in Pune, India. Also learning programming through small projects on the side.
+</div>
 
 <p>
-  <h1 align="left">
-    <b>Tech Stack</b>
-  </h1>
-  <hr>
+  <h3 align="left">
+    <b>Tech Stack :</b>
+  </h3>
   <div align="center">
     <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
     <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
