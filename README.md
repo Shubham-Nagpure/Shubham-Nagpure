@@ -6,10 +6,8 @@
   I'm Shubham Nagpure, a software engineer currently working and living in Pune, India. Also learning programming through small projects on the side.
 </div>
 
+## Tech Stack
 <p>
-  <h3 align="left">
-    <b>Tech Stack :</b>
-  </h3>
   <div align="center">
     <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
     <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
@@ -19,3 +17,14 @@
     <img src="https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby&logoColor=red&labelColor=282828">
   </div>
 </p>
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Nagpure&show_icons=true&theme=ayu-mirage&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Shubham-Nagpure&theme=ayu-mirage&hide_border=true" />
+  </a>
+</p>
+<br>
