@@ -1,6 +1,10 @@
 <div align="center">
   <h1><b>Shubham Nagpure</b></h1>
   <p>Full-stack engineer · Pune, India · MoxiWorks</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Shubham-Nagpure&label=Profile%20views&color=d1a01f&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/Shubham-Nagpure?label=Followers&style=flat&color=d1a01f" alt="Followers" />
+  </p>
 </div>
 
 ## About
@@ -47,13 +51,26 @@ an API gateway.
   <img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
-## GitHub Stats
+## GitHub Analytics
 
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Nagpure&show_icons=true&theme=gruvbox&hide_border=true" />
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Nagpure&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_border=true&custom_title=Overall%20Stats" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Shubham-Nagpure&theme=gruvbox&hide_border=true" />
 </p>
 
-<p align="left">
-  <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Nagpure&layout=compact&theme=gruvbox&hide_border=true" />
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Nagpure&layout=compact&langs_count=10&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Nagpure&show=prs_merged,prs_merged_percentage,reviews&hide=stars,issues&count_private=true&include_all_commits=true&theme=gruvbox&hide_border=true&custom_title=Pull%20Request%20Impact" />
+</p>
+
+### Contribution timeline
+
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Nagpure&theme=gruvbox&hide_border=true&custom_title=Daily%20contributions%20over%20the%20last%20year&bg_color=282828&color=d1a01f&line=d1a01f&point=c58545&area=true&area_color=d1a01f" />
+</p>
+
+### Achievements
+
+<p align="center">
+  <img width="99%" src="https://github-profile-trophy.vercel.app/?username=Shubham-Nagpure&theme=gruvbox&no-frame=true&column=7&margin-w=6&margin-h=6" />
 </p>
